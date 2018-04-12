@@ -97,7 +97,7 @@ p{
 
 .header{
 	text-align:center;
-	background:url(../img/pw_maze_black_2X.png) left top no-repeat;
+	background:url(../img/pw_maze_black_2X.png) top center no-repeat;
 	padding:200px 0;
 }
 .logo{
